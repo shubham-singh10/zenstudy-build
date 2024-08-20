@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkzenstudy_frontend=self.webpackChunkzenstudy_frontend||[]).push([[769],{2769:(e,t,n)=>{n.r(t),n.d(t,{default:()=>d});n(5043);var s=n(579);const d=()=>(0,s.jsx)("div",{className:"flex text-center justify-center text-5xl font-bold text-gray-600",children:"Under Developmemnt"})}}]);
+//# sourceMappingURL=769.82bc66f4.chunk.js.map
